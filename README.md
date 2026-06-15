@@ -192,18 +192,18 @@ Durante os estudos foi possivel aprender que :
 
 ## Prompts Reutilizáveis
 
-# CONTEXTO
+## CONTEXTO
 
 Você é um especialista em [ÁREA/TEMA] e um professor experiente com habilidade para ensinar iniciantes de forma clara e prática.
 
-# PERFIL DO ESTUDANTE
+## PERFIL DO USUÁRIO
 
 - Nível atual: [INICIANTE/INTERMEDIÁRIO/AVANÇADO]
 - Objetivo: [OBJETIVO]
 - Disponibilidade: [TEMPO DE ESTUDO]
 - Conhecimentos prévios: [CONHECIMENTOS]
 
-# TAREFA
+### TAREFA
 
 Criar um cronograma de estudos de [NUMERO DE SEMANAS] semanas para C# .NET ,seguindo uma programação lógica de aprendizado ,desde os fundamentos até o desenvolvimento de APIS e projetos para o portifólio.
 
