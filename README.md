@@ -28,15 +28,15 @@
 
 ## Teste de Prompts
 
-## 1 Prompt
+## Prompt 1
 
-## Contexto 
+### Contexto 
 Você é um Desenvolvedor Sênior e Arquiteto de Software especializado em C#, .NET e formação de desenvolvedores iniciantes.
 
 Sua missão é criar um plano de estudos completo, prático e alinhado ás exigências atuais do mercado para transformar um estudante em um Desenvolvedor C# .NET Jr 
 preparado para participar de processos seletivos e desenvolver projetos reais.
 
-# Perfil do Estudante 
+### Perfil do Estudante 
 
 - Está em transição de carreira para a área da tecnologia .
 - Possui conhecimentos básico a programação.
@@ -44,12 +44,12 @@ preparado para participar de processos seletivos e desenvolver projetos reais.
 - Busca sua primeira oportunidade como Desenvolvedor Back-end .Net.
 - Aprende melhor por meio da pratica e da construção de projetos.
 
-# Objetivo 
+### Objetivo 
 
 Criar um cronograma de estudos de 16 semanas para C# .NET ,seguindo uma programação lógica de aprendizado ,desde os fundamentos até o desenvolvimento de APIS e projetos para o portifólio.
 
 
-#Resposta IA
+### Resposta IA
 Olá! Como Arquiteto de Software, preparei este cronograma focado na **prática e na realidade do mercado de 2026**. Considerando que você tem 1 hora por dia e já possui noções básicas, o foco será em construir uma base sólida e evoluir para as funcionalidades mais modernas da plataforma .NET.
 
 Este plano de 16 semanas transformará sua base teórica em um portfólio técnico capaz de impressionar em processos seletivos.
@@ -102,9 +102,9 @@ Este plano de 16 semanas transformará sua base teórica em um portfólio técni
 Bons estudos! A jornada é constante, mas este plano te coloca na trilha certa para sua primeira vaga.
 
 
-## 2 Prompt
+## Prompt 2
 
-## Contexto
+### Contexto
 Você é um Tech Lead Sênior e Arquiteto de Software especialista em C# .NET e vai mentora um programador Jr a conseguir seu primeiro emprego.
 Sua missão é auxiliar um programador jr a entrar no mercado de trabalho atual com as stacks pedidas no mercado.
 
@@ -118,10 +118,10 @@ Sua missão é auxiliar um programador jr a entrar no mercado de trabalho atual 
 - Conhecimentos básicos em API.
 - Conhecimento em Git e GitHub.
 
-# Objetivo 
+### Objetivo 
 Saber qual as stacks que o mercado de trabalho pede para um programador Jr montar um plano de estudos com foco nas stacks solicitadas , com carga de 2 horas por dia em 5 dias na semana 
 
-## Resposta IA
+### Resposta IA
 
 Olá! Como seu mentor e Arquiteto de Software, montei um plano de ação para transformá-lo em um **Desenvolvedor .NET Jr. de elite**, focado no que o mercado de 2026 exige. 
 
@@ -177,12 +177,12 @@ Ao estudar, não apenas leia. O mercado valoriza quem demonstra saber **por que*
 ## Miniguia
 
 Para estruturar um bom prompt é necessário criar instruções claras e contextualizadas para obter respostas mais precisas
-## Estrutura
+### Estrutura
 *  **Contexto** : definir o cenario e o papel da IA.
 *  **Objetivo** : Informar o resultado esperado.
 *  **Perfil do Usuario**: Fornecer informações importantes para personifação.
 
-## Aprendizados
+### Aprendizados
 
 Durante os estudos foi possivel aprender que :
 *  A qualidade da resposta depende diretamente da qualidade do prompt. 
@@ -190,7 +190,7 @@ Durante os estudos foi possivel aprender que :
 *  Deinifir contexto e objetivo reduz ambiguidades.
 *  A IA funciona melhor quando recebe instruções específicas.
 
-## Prompts Reutilizáveis
+### Prompts Reutilizáveis
 
 ### CONTEXTO
 
@@ -203,7 +203,7 @@ Você é um especialista em [ÁREA/TEMA] e um professor experiente com habilidad
 - Disponibilidade: [TEMPO DE ESTUDO]
 - Conhecimentos prévios: [CONHECIMENTOS]
 
-### TAREFA
+### OBJETIVO
 
 Criar um cronograma de estudos de [NUMERO DE SEMANAS] semanas para C# .NET ,seguindo uma programação lógica de aprendizado ,desde os fundamentos até o desenvolvimento de APIS e projetos para o portifólio.
 
