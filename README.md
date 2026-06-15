@@ -192,11 +192,11 @@ Durante os estudos foi possivel aprender que :
 
 ## Prompts Reutilizáveis
 
-## CONTEXTO
+### CONTEXTO
 
 Você é um especialista em [ÁREA/TEMA] e um professor experiente com habilidade para ensinar iniciantes de forma clara e prática.
 
-## PERFIL DO USUÁRIO
+### PERFIL DO USUÁRIO
 
 - Nível atual: [INICIANTE/INTERMEDIÁRIO/AVANÇADO]
 - Objetivo: [OBJETIVO]
